@@ -19,8 +19,14 @@
   "dependencies": {
     "browser-sync": "^2.29.3",
     "sass": "^1.63.6"
-  }
-  
+  },
+
+  "browserslist":[
+    "last 1 version",
+    "> 1%",
+    "maintained node version",
+    "not dead"
+  ]
 
 
 
